@@ -87,7 +87,7 @@ Voxels ARE terrain. This library is the computational substrate for:
 - **→ [spatial-registry](https://github.com/SuperInstance/spatial-registry)** — room placement on 3D grid
 - **→ [room-render](https://github.com/SuperInstance/room-render)** — voxel-based room rendering
 - **→ [base60-lattice](https://github.com/SuperInstance/base60-lattice)** — hexagonal tiling ↔ voxel grid
-- **→ [officers-quarters](https://github.com/SuperInstance/officers-quarters)** — Phaser game client with tile-based rooms
+- **→ [elephant](https://github.com/SuperInstance/elephant)** — Phaser game client with tile-based rooms
 - **→ [scummvm-prototype](https://github.com/SuperInstance/scummvm-prototype)** — room-based adventure game
 - **→ [Lucineer Roblox](https://github.com/SuperInstance/AI-Writings)** — 3D build placement
 
